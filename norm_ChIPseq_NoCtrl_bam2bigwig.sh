@@ -10,7 +10,9 @@
 #SBATCH --output=tmp/Job.%J.norm_ChIPseq.out
 
 
-##########################################################
+###################################################################
+###  Script written by Joshua M. Scurll, Vancouver Prostate Centre.
+###################################################################
 
 
 ## Number of processors to use. Note that at least 8 processors are required.
